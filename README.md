@@ -44,7 +44,7 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="60"/><br>Arduino</td>
     <td align="center"><img src="https://freebiesupply.com/logos/mysql-logo-2/" width="60"/><br>MySQL</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60"/><br>PHP</td>
-    <td align="center"><img src="https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg#/media/File:CSS3_and_HTML5_logos_and_wordmarks.svg" width="60"/><br>HTML & CSS</td>
+    <td align="center"><img src="https://img-c.udemycdn.com/course/750x422/539660_27d6_7.jpg" width="60"/><br>HTML & CSS</td>
   </tr>
 </table>
 
