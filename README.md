@@ -38,7 +38,7 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60"/><br>Java</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="60"/><br>Lua</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/><br>Python</td>
-    <td align="center"><img src="https://commons.wikimedia.org/wiki/File:Luau_Logo_(Programming_Language).svg#/media/File:Luau_Logo_(Programming_Language).svg" width="60"/><br>Luau</td>
+    <td align="center"><img src="https://luau.org/assets/images/luau-88.png" width="60"/><br>Luau</td>
   </tr>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="60"/><br>Arduino</td>
