@@ -10,14 +10,7 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 ## Outras seções comuns em perfis do GitHub
 
-🧠 Estou aprendendo JavaScript,
-
-🤔 Procuro ajuda com...
-
-
-⚡️ Fatos engraçados...
-
-
+⚡️ Estou aprendendo JavaScript, C++, C# 
 
 
 ## Uso/Exemplos
@@ -53,9 +46,9 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
 
 <table>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Spring_Framework_Logo_2018.svg" width="60"/><br>Spring Boot</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_Logo.svg" width="60"/><br>Eclipse</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" width="60"/><br>Visual Studio</td>
+    <td align="center"><img src="https://spring.io/img/projects/spring-boot.svg" width="60"/><br>Spring Boot</td>
+    <td align="center"><img src="https://www.techspot.com/images2/downloads/topdownload/2019/01/2019-01-16-ts3_thumbs-bc3-p_256.webp" width="60"/><br>Eclipse</td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" width="60"/><br>Visual Studio</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Roblox_Studio_Logo.png" width="60"/><br>Roblox Studio</td>
   </tr>
   <tr>
