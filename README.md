@@ -25,7 +25,7 @@ function App() {
 ## 💻 Linguagens de Programação que Domino
 
 Aqui estão as linguagens e tecnologias que conheço, representadas por seus logos:
-
+<div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60"/><br>Java</td>
@@ -55,7 +55,7 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
   </tr>
  
 </table>
-
+</div>
 ## Relacionados
 
 Segue alguns projetos relacionados
