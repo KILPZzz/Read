@@ -10,6 +10,10 @@
 ⚡️ Learning JavaScript, C++, C# 
 
 
+
+
+
+
 ## 💻 Programming languages I know
 
 <div align="center">
