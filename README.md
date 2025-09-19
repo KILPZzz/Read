@@ -48,13 +48,12 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
   <tr>
     <td align="center"><img src="https://spring.io/img/projects/spring-boot.svg" width="60"/><br>Spring Boot</td>
     <td align="center"><img src="https://www.techspot.com/images2/downloads/topdownload/2019/01/2019-01-16-ts3_thumbs-bc3-p_256.webp" width="60"/><br>Eclipse</td>
-    <td align="center"><img src="" width="60"/><br>Visual Studio</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60"/><br>Visual Studio</td>
     <td align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" width="60"/><br>Roblox Studio</td>
+     <td align="center"><img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Community/4ca3073617da9400cd68a22c5544f207/icons/128x128/com.jetbrains.IntelliJ-IDEA-Community.png" width="60"/><br>IntelliJ IDEA</td>
+    <td align="center"><img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Unreal_Engine_Logo.svg" width="60"/><br>Unreal Engine</td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="60"/><br>IntelliJ IDEA</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Unreal_Engine_Logo.svg" width="60"/><br>Unreal Engine</td>
-  </tr>
+ 
 </table>
 
 ## Relacionados
