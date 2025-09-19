@@ -48,8 +48,8 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
   <tr>
     <td align="center"><img src="https://spring.io/img/projects/spring-boot.svg" width="60"/><br>Spring Boot</td>
     <td align="center"><img src="https://www.techspot.com/images2/downloads/topdownload/2019/01/2019-01-16-ts3_thumbs-bc3-p_256.webp" width="60"/><br>Eclipse</td>
-    <td align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" width="60"/><br>Visual Studio</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Roblox_Studio_Logo.png" width="60"/><br>Roblox Studio</td>
+    <td align="center"><img src="" width="60"/><br>Visual Studio</td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" width="60"/><br>Roblox Studio</td>
   </tr>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="60"/><br>IntelliJ IDEA</td>
