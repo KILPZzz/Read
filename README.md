@@ -48,8 +48,22 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
   </tr>
 </table>
 
-![Logo](https://kilpz.gallerycdn.vsassets.io/extensions/kilpz/catnap-theme/1.0.8/1758244576902/Microsoft.VisualStudio.Services.Icons.Default)
+---
 
+## 🛠️ Ferramentas e IDEs que Já Usei
+
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Spring_Framework_Logo_2018.svg" width="60"/><br>Spring Boot</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_Logo.svg" width="60"/><br>Eclipse</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" width="60"/><br>Visual Studio</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Roblox_Studio_Logo.png" width="60"/><br>Roblox Studio</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width="60"/><br>IntelliJ IDEA</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Unreal_Engine_Logo.svg" width="60"/><br>Unreal Engine</td>
+  </tr>
+</table>
 
 ## Relacionados
 
