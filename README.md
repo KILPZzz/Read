@@ -1,30 +1,15 @@
 
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+# Welcome to My Profile
 
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+
+## Doing at The Moment
+
+⚡️ Learning JavaScript, C++, C# 
 
 
-## Outras seções comuns em perfis do GitHub
+## 💻 Programming languages I know
 
-⚡️ Estou aprendendo JavaScript, C++, C# 
-
-
-## Uso/Exemplos
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-## 💻 Linguagens de Programação que Domino
-
-Aqui estão as linguagens e tecnologias que conheço, representadas por seus logos:
 <div align="center">
 <table>
   <tr>
@@ -42,7 +27,7 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
 
 ---
 
-## 🛠️ Ferramentas e IDEs que Já Usei
+## 🛠️ Tools and IDEs that i worked with:
 
 <table>
   <tr>
@@ -56,9 +41,5 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
  
 </table>
 </div>
-## Relacionados
 
-Segue alguns projetos relacionados
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
 
