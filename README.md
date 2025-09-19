@@ -33,7 +33,7 @@ Aqui estão as linguagens e tecnologias que conheço, representadas por seus log
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/><br>Python</td>
     <td align="center"><img src="https://luau.org/assets/images/luau-88.png" width="60"/><br>Luau</td>
      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="60"/><br>Arduino</td>
-    <td align="center"><img src="https://freebiesupply.com/logos/mysql-logo-2/" width="60"/><br>MySQL</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60"/><br>MySQL</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60"/><br>PHP</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60"/><br>HTML</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60"/><br>CSS</td>
